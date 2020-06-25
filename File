@@ -6,4 +6,8 @@ woah 3
 woah 4
 in git after system
 updated whole
+<<<<<<< Updated upstream
 updated remote
+=======
+updated local
+>>>>>>> Stashed changes
